@@ -1,2 +1,2 @@
 # hoogle
-foogle
+hoogle
